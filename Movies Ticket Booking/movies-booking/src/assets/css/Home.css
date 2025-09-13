@@ -1,0 +1,116 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.home {
+    color: rgb(0, 0, 0);
+}
+
+.nav-bar {
+    background-color: #000;
+    border-radius: 10px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    width: 100%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.nav-bar .brand a {
+    font-weight: bolder;
+    color: rgb(92, 255, 28);
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.nav-bar ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar li {
+    margin-left: 25px;
+}
+
+.nav-bar li a {
+    font-weight: 600;
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 8px 14px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.nav-bar li a:hover {
+    color: #fff;
+    background: rgb(255, 52, 52);
+}
+
+
+.carousel-img {
+    margin-top: 20px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.now-showing {
+    margin: 50px 0;
+}
+
+.now-showing h2 {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.now-showing .card {
+    border: none;
+    border-radius: 12px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.now-showing .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+.now-showing img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.now-showing .card-title {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.now-showing .card-text {
+    font-size: 14px;
+    color: #555;
+}
+
+.now-showing .btn-primary {
+ 
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.now-showing .btn-primary:hover {
+    background-color: #009900;
+    transform: scale(1.05);
+}

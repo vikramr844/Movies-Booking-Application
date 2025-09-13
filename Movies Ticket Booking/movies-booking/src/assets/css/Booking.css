@@ -1,0 +1,56 @@
+.booking-container img {
+    margin-top: 20px;
+    max-width: 100%;
+  
+    max-height: 400px;
+   
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.seat-layout {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.seat-row {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
+
+.seat {
+    width: 35px;
+    height: 35px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    border: 1px solid #444;
+}
+
+.seat.regular {
+    background-color: #dcdcdc;
+}
+
+.seat.balcony {
+    background-color: #a0d8f1;
+}
+
+.seat.selected {
+    background-color: #f44336;
+    color: white;
+}
+
+.legend span {
+    margin-right: 15px;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}

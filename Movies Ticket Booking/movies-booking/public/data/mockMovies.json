@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "title": "Avengers: Endgame",
+    "desc": "After the devastating events of Avengers: Infinity War, the universe is in ruins. The Avengers assemble once more.",
+    "img": "/images/1.jpg",
+    "duration": "3h 2m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 2,
+    "title": "The Batman",
+    "desc": "Batman ventures into Gotham City's underworld when a killer leaves cryptic clues.",
+    "img": "https://via.placeholder.com/800x400?text=The+Batman",
+    "duration": "2h 55m",
+    "genre": "Action, Crime, Drama"
+  },
+  {
+    "id": 3,
+    "title": "Dune",
+    "desc": "Feature adaptation of Frank Herbert's science fiction novel about the son of a noble family entrusted with the protection of the most valuable asset.",
+    "img": "https://via.placeholder.com/800x400?text=Dune",
+    "duration": "2h 35m",
+    "genre": "Adventure, Drama, Sci-Fi"
+  },
+  {
+    "id": 4,
+    "title": "Spider-Man: No Way Home",
+    "desc": "Peter Parker seeks Doctor Strange's help when his identity is revealed to the world.",
+    "img": "https://via.placeholder.com/800x400?text=Spider-Man+No+Way+Home",
+    "duration": "2h 28m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 5,
+    "title": "Avatar: The Way of Water",
+    "desc": "Jake Sully lives with his newfound family formed on the planet Pandora.",
+    "img": "https://via.placeholder.com/800x400?text=Avatar+2",
+    "duration": "3h 12m",
+    "genre": "Action, Adventure, Fantasy"
+  },
+  {
+    "id": 6,
+    "title": "Black Panther: Wakanda Forever",
+    "desc": "The people of Wakanda fight to protect their home from intervening world powers.",
+    "img": "https://via.placeholder.com/800x400?text=Black+Panther+2",
+    "duration": "2h 41m",
+    "genre": "Action, Adventure, Drama"
+  },
+  {
+    "id": 7,
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "desc": "Doctor Strange teams up with new and old allies to confront a mysterious new adversary.",
+    "img": "https://via.placeholder.com/800x400?text=Doctor+Strange+2",
+    "duration": "2h 6m",
+    "genre": "Action, Adventure, Fantasy"
+  },
+  {
+    "id": 8,
+    "title": "Thor: Love and Thunder",
+    "desc": "Thor attempts to find inner peace but must return to action to stop Gorr the God Butcher.",
+    "img": "https://via.placeholder.com/800x400?text=Thor+4",
+    "duration": "1h 59m",
+    "genre": "Action, Adventure, Comedy"
+  },
+  {
+    "id": 9,
+    "title": "Guardians of the Galaxy Vol. 3",
+    "desc": "The Guardians band together to defend the universe and protect one of their own.",
+    "img": "https://via.placeholder.com/800x400?text=Guardians+Vol+3",
+    "duration": "2h 30m",
+    "genre": "Action, Adventure, Comedy"
+  },
+  {
+    "id": 10,
+    "title": "Eternals",
+    "desc": "The saga of the Eternals, a race of immortal beings who have secretly lived on Earth for thousands of years.",
+    "img": "https://via.placeholder.com/800x400?text=Eternals",
+    "duration": "2h 36m",
+    "genre": "Action, Adventure, Fantasy"
+  },
+  {
+    "id": 11,
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "desc": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+    "img": "https://via.placeholder.com/800x400?text=Shang-Chi",
+    "duration": "2h 12m",
+    "genre": "Action, Adventure, Fantasy"
+  },
+  {
+    "id": 12,
+    "title": "Captain Marvel",
+    "desc": "Carol Danvers becomes one of the universe's most powerful heroes.",
+    "img": "https://via.placeholder.com/800x400?text=Captain+Marvel",
+    "duration": "2h 3m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 13,
+    "title": "Iron Man",
+    "desc": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "img": "https://via.placeholder.com/800x400?text=Iron+Man",
+    "duration": "2h 6m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 14,
+    "title": "Iron Man 2",
+    "desc": "With the world aware of his alter ego, Tony Stark must contend with both his declining health and a vengeful madman.",
+    "img": "https://via.placeholder.com/800x400?text=Iron+Man+2",
+    "duration": "2h 4m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 15,
+    "title": "Iron Man 3",
+    "desc": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "img": "https://via.placeholder.com/800x400?text=Iron+Man+3",
+    "duration": "2h 10m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 16,
+    "title": "Captain America: The First Avenger",
+    "desc": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a 'Super-Soldier serum'.",
+    "img": "https://via.placeholder.com/800x400?text=Captain+America+1",
+    "duration": "2h 4m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 17,
+    "title": "Captain America: The Winter Soldier",
+    "desc": "Steve Rogers struggles to embrace his role in the modern world and battles a new threat from old history.",
+    "img": "https://via.placeholder.com/800x400?text=Captain+America+2",
+    "duration": "2h 16m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 18,
+    "title": "Captain America: Civil War",
+    "desc": "Political interference in the Avengers' activities causes a rift between Captain America and Iron Man.",
+    "img": "https://via.placeholder.com/800x400?text=Captain+America+3",
+    "duration": "2h 27m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 19,
+    "title": "Avengers: Infinity War",
+    "desc": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos.",
+    "img": "https://via.placeholder.com/800x400?text=Infinity+War",
+    "duration": "2h 29m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 20,
+    "title": "Ant-Man",
+    "desc": "Armed with a super-suit, Scott Lang must embrace his inner hero to help his mentor plan and pull off a heist.",
+    "img": "https://via.placeholder.com/800x400?text=Ant-Man",
+    "duration": "1h 57m",
+    "genre": "Action, Adventure, Comedy"
+  },
+  {
+    "id": 21,
+    "title": "Ant-Man and the Wasp",
+    "desc": "As Scott Lang balances being a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission.",
+    "img": "https://via.placeholder.com/800x400?text=Ant-Man+2",
+    "duration": "1h 58m",
+    "genre": "Action, Adventure, Comedy"
+  },
+  {
+    "id": 22,
+    "title": "Doctor Strange",
+    "desc": "A former neurosurgeon embarks on a journey of healing, only to be drawn into the world of the mystic arts.",
+    "img": "https://via.placeholder.com/800x400?text=Doctor+Strange",
+    "duration": "1h 55m",
+    "genre": "Action, Adventure, Fantasy"
+  },
+  {
+    "id": 23,
+    "title": "Black Widow",
+    "desc": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy arises.",
+    "img": "https://via.placeholder.com/800x400?text=Black+Widow",
+    "duration": "2h 13m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 24,
+    "title": "The Incredible Hulk",
+    "desc": "Bruce Banner, a scientist on the run, searches for a cure to his condition that turns him into the Hulk.",
+    "img": "https://via.placeholder.com/800x400?text=Hulk",
+    "duration": "1h 52m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 25,
+    "title": "The Avengers",
+    "desc": "Earth's mightiest heroes must come together to stop Loki and his alien army from enslaving humanity.",
+    "img": "https://via.placeholder.com/800x400?text=The+Avengers",
+    "duration": "2h 23m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 26,
+    "title": "Avengers: Age of Ultron",
+    "desc": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program, things go terribly wrong.",
+    "img": "https://via.placeholder.com/800x400?text=Age+of+Ultron",
+    "duration": "2h 21m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 27,
+    "title": "Deadpool",
+    "desc": "A former special forces operative turned mercenary undergoes an experiment that leaves him with accelerated healing powers.",
+    "img": "https://via.placeholder.com/800x400?text=Deadpool",
+    "duration": "1h 48m",
+    "genre": "Action, Comedy"
+  },
+  {
+    "id": 28,
+    "title": "Deadpool 2",
+    "desc": "Foul-mouthed mutant mercenary Wade Wilson brings together a team to protect a young boy from a time-traveling soldier.",
+    "img": "https://via.placeholder.com/800x400?text=Deadpool+2",
+    "duration": "2h",
+    "genre": "Action, Comedy"
+  },
+  {
+    "id": 29,
+    "title": "Logan",
+    "desc": "In a future where mutants are nearly extinct, an aging Wolverine and ailing Professor X defend a young mutant.",
+    "img": "https://via.placeholder.com/800x400?text=Logan",
+    "duration": "2h 17m",
+    "genre": "Action, Drama, Sci-Fi"
+  },
+  {
+    "id": 30,
+    "title": "Venom",
+    "desc": "A failed reporter bonds with an alien symbiote, giving him superhuman abilities.",
+    "img": "https://via.placeholder.com/800x400?text=Venom",
+    "duration": "1h 52m",
+    "genre": "Action, Sci-Fi, Thriller"
+  },
+  {
+    "id": 31,
+    "title": "Venom: Let There Be Carnage",
+    "desc": "Eddie Brock attempts to reignite his career while struggling to coexist with the alien symbiote.",
+    "img": "https://via.placeholder.com/800x400?text=Venom+2",
+    "duration": "1h 37m",
+    "genre": "Action, Sci-Fi, Thriller"
+  },
+  {
+    "id": 32,
+    "title": "Morbius",
+    "desc": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but inadvertently infects himself with a form of vampirism.",
+    "img": "https://via.placeholder.com/800x400?text=Morbius",
+    "duration": "1h 44m",
+    "genre": "Action, Adventure, Horror"
+  },
+  {
+    "id": 33,
+    "title": "The Marvels",
+    "desc": "Carol Danvers, Monica Rambeau, and Kamala Khan team up when their powers become entangled.",
+    "img": "https://via.placeholder.com/800x400?text=The+Marvels",
+    "duration": "1h 45m",
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  {
+    "id": 34,
+    "title": "Hawkeye",
+    "desc": "Clint Barton teams up with a young archer to confront enemies from his past.",
+    "img": "https://via.placeholder.com/800x400?text=Hawkeye",
+    "duration": "1h 50m",
+    "genre": "Action, Adventure"
+  },
+  {
+    "id": 35,
+    "title": "Moon Knight",
+    "desc": "A former Marine struggling with dissociative identity disorder is granted powers by an Egyptian god.",
+    "img": "https://via.placeholder.com/800x400?text=Moon+Knight",
+    "duration": "2h",
+    "genre": "Action, Adventure, Fantasy"
+  }
+]
